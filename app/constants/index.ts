@@ -1,4 +1,5 @@
 import type { AxisModel } from "@syncfusion/ej2-react-charts";
+import {formatDate} from "~/lib/utils";
 
 export const sidebarItems = [
   {
@@ -140,3 +141,78 @@ export const RIGHT_CONFETTI = {
   angle: 135,
   origin: { x: 1, y: 1 },
 };
+
+export const user = { name: 'Adrian'};
+export const dashboardStats = {
+  totalUsers: 12450,
+  usersJoined: { currentMonth: 218, lastMonth: 176 },
+  totalTrips: 3210,
+  tripsCreated: { currentMonth: 150, lastMonth: 250},
+  userRole: { total: 62, currentMonth: 25, lastMonth: 15},
+}
+export const allTrips = [{
+      id: 1,
+      name: "Ancient Ruins",
+      imageUrls: ["/assets/images/card-img-3.png"],
+      itinerary: [{ location: "Greece" }],
+      tags: ["Adventure", "Culture"],
+      travelStyle: "Solo",
+      estimatedPrice: "$1,000",
+    },
+    {
+      id: 2,
+      name: "Gondola Ride",
+      imageUrls: ["/assets/images/card-img-4.png"],
+      itinerary: [{ location: "Venice" }],
+      tags: ["Relaxation", "Culinary"],
+      travelStyle: "Family",
+      estimatedPrice: "$2,000",
+    },
+    {
+      id: 3,
+      name: "Italy's Hidden Retreat",
+      imageUrls: ["/assets/images/card-img-5.png"],
+      itinerary: [{ location: "Positano" }],
+      tags: ["Shopping", "Luxury"],
+      travelStyle: "Couple",
+      estimatedPrice: "$3,000",
+    },
+    {
+      id: 4,
+      name: "Culture Refresh",
+      imageUrls: ["/assets/images/card-img-6.png"],
+      itinerary: [{ location: "Thailand" }],
+      tags: ["Historical", "Culture"],
+      travelStyle: "Friends",
+      estimatedPrice: "$4,000",
+    },
+    ];
+export const users = [
+  {
+    id: 1,
+    name: "John Doe",
+    email: "john.doe@example.com",
+    imageUrl: "/assets/images/david.webp",
+    dateJoined: formatDate("2025-01-01"),
+    itineraryCreated: 10,
+    status: "user",
+  },
+  {
+    id: 2,
+    name: "Jane Smith",
+    email: "jane.smith@example.com",
+    imageUrl: "/assets/images/david.webp",
+    dateJoined: formatDate("2025-01-02"),
+    itineraryCreated: 4,
+    status: "user",
+  },
+  {
+    id: 3,
+    name: "John Smith",
+    email: "john.smith@example.com",
+    imageUrl: "/assets/images/david.webp",
+    dateJoined: formatDate("2025-01-03"),
+    itineraryCreated: 8,
+    status: "admin",
+  },
+];
