@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank">
       <img src="public/assets/images/readme.png" alt="Project Banner">
     </a>
   <br />
@@ -33,7 +33,7 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -123,11 +123,13 @@ VITE_BASE_URL="http://localhost:5173"
 
 ### Replace the placeholder values with your actual credentials.
 
-- **[Syncfusion](https://www.syncfusion.com/)**
+- **[Syncfusion](https://jsm.dev/tourvisto-syncfusion)**
 
-- **[Appwrite](https://appwrite.io/)**
+- **[Appwrite](https://jsm.dev/tourvisto-appwrite)**
 
 - **[Gemini AI](https://aistudio.google.com/)**
+
+- **[Sentry](https://jsm.dev/tourvisto-sentry)**
 
 - **[Stripe](https://stripe.com/)**
 
@@ -2017,9 +2019,9 @@ export default Dashboard
 ## <a name="links">🔗 Assets</a>
 
 - Assets used in the project can be found [here](https://jsm.dev/tourvisto-kit)
-<a href="https://jsm.dev/tourvisto-kit" target="_blank">
+  <a href="https://jsm.dev/tourvisto-kit" target="_blank">
   <img src="public/assets/images/readme-video-kit.jpg" alt="Video Kit Banner">
-</a>
+  </a>
 
 ## <a name="more">🚀 More</a>
 
@@ -2028,6 +2030,6 @@ export default Dashboard
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsmastery.pro/" target="_blank">
+<a href="https://jsm.dev/tourvisto-readme" target="_blank">
   <img src="public/assets/images/readme-bottom.jpg" alt="Project Banner">
 </a>
