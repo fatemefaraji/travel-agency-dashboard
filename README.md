@@ -123,11 +123,13 @@ VITE_BASE_URL="http://localhost:5173"
 
 ### Replace the placeholder values with your actual credentials.
 
-- **[Syncfusion](https://www.syncfusion.com/)**
+- **[Syncfusion](https://jsm.dev/tourvisto-syncfusion)**
 
-- **[Appwrite](https://appwrite.io/)**
+- **[Appwrite](https://jsm.dev/tourvisto-appwrite)**
 
 - **[Gemini AI](https://aistudio.google.com/)**
+
+- **[Sentry](https://jsm.dev/tourvisto-sentry)**
 
 - **[Stripe](https://stripe.com/)**
 
