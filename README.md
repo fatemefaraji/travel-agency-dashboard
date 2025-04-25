@@ -2028,6 +2028,6 @@ export default Dashboard
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsmastery.pro/" target="_blank">
+<a href="https://jsm.dev/tourvisto-readme" target="_blank">
   <img src="public/assets/images/readme-bottom.jpg" alt="Project Banner">
 </a>
